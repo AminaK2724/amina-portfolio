@@ -1,0 +1,8 @@
+/* aboutMe.css */
+.about-me-container {
+  background-image: url('../imgs/aurora-1.jpg'); /* Adjust the filename and path accordingly */
+  background-size: cover; /* or 'contain' depending on your preference */
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  height: 100vh;
+}
